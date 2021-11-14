@@ -1,1 +1,1 @@
-# my-practice
+# my-javascript-practice
